@@ -1,7 +1,12 @@
-Hi. My name is Maxim
+My name is Maxim.
 
-My primary focus are two things:
+I'm working on
 
-- Working as a software engineer (React, Node, Python, Infra) at [Casey](https://www.casey.legal/)
+- Mobile app to interact with agentic tools (Claude Code / Codex / OpenCode / Crush) hosted on sprites.dev sandbox environment
 
-- Working on my own note-taking app. To be made public - soon
+- Cross-platform, file system-based, git-sync note-taking app
+
+- Calling app where you can ping your contacts when you're up for a buzz?
+
+
+Public soon
