@@ -1,6 +1,4 @@
-My name is Maxim.
-
-I'm working on
+My name is Maxim. I'm working on:
 
 - Mobile app to interact with agentic tools (Claude Code / Codex / OpenCode / Crush) hosted on sprites.dev sandbox environment
 
