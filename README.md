@@ -1,8 +1,5 @@
 My name is Maxim. I'm working on:
 
-- Mobile app to interact with agentic tools (Claude Code / Codex / OpenCode / Crush) via sprites.dev sandbox environment
+- [Type](https://github.com/oogxdd/type) - minimalistic cross-platform note-takinga app. filesystem-based. sync via git
 
-- Cross-platform, file system-based, git-sync note-taking app
-
-
-Public soon...
+- [CodeRoamer](https://github.com/oogxdd/coderoamer) - mobile app to interact with agentic tools (Claude Code / Codex / OpenCode / Crush) through sprites.dev sandbox environment
