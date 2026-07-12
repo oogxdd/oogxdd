@@ -7,3 +7,5 @@ My name is Maxim. I'm working on:
 ___
 
 Open to new opportunities. You see see my resume at [maximignatev.vercel.app](https://maximignatev.vercel.app/)
+
+Some tech I appreciate: `React, React Native, Expo, Inngest, Next.js, Tailwind, Nest.js`
