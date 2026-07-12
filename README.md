@@ -6,4 +6,4 @@ My name is Maxim. I'm working on:
 
 ___
 
-Open to new opportunities. You see check my resume at (https://maximignatev.vercel.app)[https://maximignatev.vercel.app/]
+Open to new opportunities. You see see my resume at [maximignatev.vercel.app](https://maximignatev.vercel.app/)
