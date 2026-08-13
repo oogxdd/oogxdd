@@ -1,6 +1,6 @@
 My name is Maxim. I'm working on:
 
-- [Type](https://github.com/oogxdd/type) - novel approach to note-taking app. All entries by default go into "feed". Then you organize it into "folders" (nested structure similar to how you organize things in Notion or smlr).
+- [Type](https://github.com/oogxdd/type) - novel approach to note-taking app. All entries by default go into "feed". Then you organize them into "folders" (nested structure similar to how you organize things in Notion or smlr).
     - Every note is just an .md file (with frontmatter)
     - Cross-platform (ios/android/macos/linux/windows)
     - P2P sync via git between devices
