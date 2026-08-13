@@ -1,6 +1,11 @@
 My name is Maxim. I'm working on:
 
-- [Type](https://github.com/oogxdd/type) - minimalistic cross-platform note-takinga app. filesystem-based. sync via git
+- [Type](https://github.com/oogxdd/type) - novel approach to note-taking app. All entries by default go into "feed". Then you organize it into "folders" (nested structure similar to how you organize things in Notion or smlr).
+    - Every note is just an .md file (with frontmatter)
+    - Cross-platform (ios/android/macos/linux/windows)
+    - P2P sync via git between devices
+    - Dictation/Handwriting notes OCR recognition functionality (with different providers)
+    - Use it to power your coding agents!...
 
 - [CodeRoamer](https://github.com/oogxdd/coderoamer) - mobile app to interact with agentic tools (`Claude Code`/`Codex`/`OpenCode`/`Crush`) running on [sprites.dev](https://sprites.dev/) sandboxes
 
