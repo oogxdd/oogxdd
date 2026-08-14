@@ -8,7 +8,7 @@ My name is Maxim. I'm working on:
     - Dictation/handwriting notes OCR (BYOC: cloud or local)
     - Use it to act as a second brain for your ~coding~ life-assistant agents!...
 
-- [CodeRoamer](https://github.com/oogxdd/coderoamer) - mobile app run and manage your coding agents from your phone, powered by [sprites.dev](https://sprites.dev/) sandboxes
+- [CodeRoamer](https://github.com/oogxdd/coderoamer) - mobile app to run and manage your coding agents from your phone, powered by [sprites.dev](https://sprites.dev/) sandboxes
 
 ___
 
