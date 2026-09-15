@@ -1,6 +1,6 @@
 My name is Maxim. I'm building:
 
-- [Type](https://github.com/oogxdd/type) - yes another note-taking app.
+- [Type](https://github.com/oogxdd/type) - yet another note-taking app.
     - notes are split between "stream" (capturing) and "structure" (reflecting and organizing)
     - each note is a plain .md file (with front-matter for metadata and some other custom formatting)
     - cross-platform
