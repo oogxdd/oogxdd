@@ -1,17 +1,15 @@
-My name is Maxim. I'm working on:
+My name is Maxim. I'm building:
 
-- [Type](https://github.com/oogxdd/type) - novel approach to note-taking app (for ADHD people?). All entries by default go into a single "feed" folder. Then you organize them into "folders" (nested structure similar to how you would organize your knowledgebase in Notion or smlr).
-    - Every note is a plain .md file (with front-matter for metadata)
-    - Cross-platform (including mobile apps)
-    - P2P sync via `git` between devices
-    - TUI app!
-    - Voice dictation and handwriting recognition (BYOC: cloud or local)
-    - Use it to act as a second brain for your ~coding~ life-assistant agents!...
+- [Type](https://github.com/oogxdd/type) - yes another note-taking app.
+    - notes are split between "stream" (capturing) and "structure" (reflecting and organizing)
+    - each note is a plain .md file (with front-matter for metadata and some other custom formatting)
+    - cross-platform
+    - p2p sync between devices via `git` and `iroh`
+    - vim hotkeys (and the app is keyboard-driven)
+    - voice and handwriting recognition (BYOP: cloud or local inferences)
 
-- [CodeRoamer](https://github.com/oogxdd/coderoamer) - mobile app to run and manage your coding agents from your phone, powered by [sprites.dev](https://sprites.dev/) sandboxes
+- [CodeRoamer](https://github.com/oogxdd/coderoamer) - mobile app to run agents on sandboxes (built for people who don't own a homelab yet...)
 
 ___
 
-Actively looking for new opportunities. You see see my resume at [maximignatev.vercel.app](https://maximignatev.vercel.app/). Hit me up at ignatif@gmail.com
-
-Some tech I appreciate: `React, React Native, Expo, Tauri, Next.js, Tailwind, Nest.js, Terraform, Inngest`
+My active resume is : [maximignatev.vercel.app](https://maximignatev.vercel.app/). Open for new opportunities
