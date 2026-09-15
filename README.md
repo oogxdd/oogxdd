@@ -12,4 +12,4 @@ My name is Maxim. I'm building:
 
 ___
 
-My active resume is : [maximignatev.vercel.app](https://maximignatev.vercel.app/). Open for new opportunities
+My full resume is : [maximignatev.vercel.app](https://maximignatev.vercel.app/). Open for new opportunities
